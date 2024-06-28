@@ -1,0 +1,16 @@
+.content-layout {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Adjust this as needed */
+    gap: 20px; /* Space between text and image */
+}
+
+.quote-image {
+    flex: 1; /* Image takes up 1/3 of the container */
+    max-width: 20.333%; /* Image takes up 1/3 of the container */
+}
+
+.HighlightedQuote, .content-layout > :first-child {
+    flex: 2; /* Text takes up 2/3 of the container */
+    max-width: 80.666%; /* Text takes up 2/3 of the container */
+}
