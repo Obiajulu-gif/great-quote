@@ -9,6 +9,10 @@ This project is an innovative web application focused on capturing and sharing i
 - **Firebase**: A comprehensive app development platform that provides backend services like real-time databases, authentication, and hosting.
 - **CSS Modules**: A CSS file in which all class names and animation names are scoped locally by default.
 
+## Live Demo
+
+Experience the application live at [Great Quote](https://great-quote-1u1w.onrender.com/quotes).
+
 ## Author
 
 Developed by Okoye Emmanuel Obiajulu, this project aims to connect people through the power of words. For any inquiries or contributions, feel free to reach out.
