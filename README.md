@@ -11,7 +11,7 @@ This project is an innovative web application focused on capturing and sharing i
 
 ## Live Demo
 
-Experience the application live at [Great Quote](https://great-quote-1u1w.onrender.com/).
+Experience the application live at [Great Quote](https://great-quote-1u1w.onrender.com).
 
 ## Author
 
